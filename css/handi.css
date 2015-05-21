@@ -1,0 +1,28 @@
+body {
+    padding-top: 30px;
+}
+
+.navbar-inverse{
+	background-color: #253378;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-brand{
+  color: #fff;
+}
+
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
